@@ -1,0 +1,10 @@
+[
+  {"date": "15.08.1990", "name": "Иван Иванов", "on": "2026-11-01",
+   "expect": {"life_path": 6, "expression": 5, "soul_urge": 11, "personality": 3, "balance": 2,
+              "birthday": 6, "attitude": 5, "personal_year": 6, "personal_month": 8, "personal_day": 9,
+              "hidden_passion": [1], "karmic_lessons": [2, 4, 5, 8, 9], "karmic_debts": [14],
+              "moolank": 6, "bhagyank": 6, "namank": 5}},
+  {"date": "1990-08-15", "name": "Ivan Ivanov", "on": "2026-11-01",
+   "expect": {"life_path": 6, "expression": 3, "soul_urge": 8, "personality": 4, "balance": 9,
+              "hidden_passion": [4], "karmic_lessons": [2, 3, 7, 8], "karmic_debts": [13, 16, 19]}}
+]

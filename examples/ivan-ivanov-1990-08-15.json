@@ -1,0 +1,217 @@
+{
+  "input": {
+    "date": "1990-08-15",
+    "name": "Иван Иванов",
+    "on": "2026-11-01",
+    "system": "pythagorean",
+    "y_as_vowel": false
+  },
+  "life_path": {
+    "value": 6,
+    "compound": 15,
+    "chain": [
+      15,
+      6
+    ],
+    "components": {
+      "day": 6,
+      "month": 8,
+      "year": 1
+    },
+    "karmic_debt": []
+  },
+  "expression": {
+    "value": 5,
+    "compound": 14,
+    "raw_letter_sum": 32,
+    "chain": [
+      14,
+      5
+    ],
+    "parts": [
+      {
+        "part": "Иван",
+        "sum": 11,
+        "reduced": 11,
+        "chain": [
+          11
+        ]
+      },
+      {
+        "part": "Иванов",
+        "sum": 21,
+        "reduced": 3,
+        "chain": [
+          21,
+          3
+        ]
+      }
+    ],
+    "karmic_debt": [
+      14
+    ]
+  },
+  "soul_urge": {
+    "value": 11,
+    "compound": 11,
+    "raw_letter_sum": 11,
+    "chain": [
+      11
+    ],
+    "parts": [
+      {
+        "part": "Иван",
+        "sum": 2,
+        "reduced": 2,
+        "chain": [
+          2
+        ]
+      },
+      {
+        "part": "Иванов",
+        "sum": 9,
+        "reduced": 9,
+        "chain": [
+          9
+        ]
+      }
+    ],
+    "karmic_debt": []
+  },
+  "personality": {
+    "value": 3,
+    "compound": 12,
+    "raw_letter_sum": 21,
+    "chain": [
+      12,
+      3
+    ],
+    "parts": [
+      {
+        "part": "Иван",
+        "sum": 9,
+        "reduced": 9,
+        "chain": [
+          9
+        ]
+      },
+      {
+        "part": "Иванов",
+        "sum": 12,
+        "reduced": 3,
+        "chain": [
+          12,
+          3
+        ]
+      }
+    ],
+    "karmic_debt": []
+  },
+  "hidden_passion": {
+    "values": [
+      1
+    ],
+    "count": 4,
+    "frequencies": {
+      "1": 4,
+      "3": 3,
+      "6": 2,
+      "7": 1
+    }
+  },
+  "balance": {
+    "value": 2,
+    "initials": [
+      1,
+      1
+    ],
+    "chain": [
+      2
+    ]
+  },
+  "birthday": {
+    "value": 6,
+    "day": 15,
+    "chain": [
+      15,
+      6
+    ],
+    "karmic_debt": []
+  },
+  "attitude": {
+    "value": 5,
+    "compound": 23,
+    "chain": [
+      23,
+      5
+    ]
+  },
+  "personal_year": {
+    "value": 6,
+    "year": 2026,
+    "chain": [
+      15,
+      6
+    ]
+  },
+  "personal_month": {
+    "value": 8,
+    "month": 11,
+    "chain": [
+      17,
+      8
+    ]
+  },
+  "personal_day": {
+    "value": 9,
+    "day": 1,
+    "chain": [
+      9
+    ]
+  },
+  "karmic_debts": [
+    {
+      "number": 14,
+      "sources": [
+        "expression"
+      ]
+    }
+  ],
+  "karmic_lessons": [
+    2,
+    4,
+    5,
+    8,
+    9
+  ],
+  "vedic": {
+    "moolank_psychic": {
+      "number": 6,
+      "graha": "Шукра",
+      "planet": "Венера"
+    },
+    "bhagyank_destiny": {
+      "number": 6,
+      "graha": "Шукра",
+      "planet": "Венера"
+    },
+    "namank_name": {
+      "number": 5,
+      "graha": "Будха",
+      "planet": "Меркурий"
+    },
+    "life_path_graha": {
+      "number": 6,
+      "graha": "Шукра",
+      "planet": "Венера"
+    },
+    "note": "Ведическая традиция обычно считает имя по халдейской таблице; здесь Namank — по пифагорейской, как ориентир."
+  },
+  "slavic_accents": {
+    "life_path": 6,
+    "birthday": 6,
+    "personal_year": 6,
+    "see": "references/slavic-accents.md"
+  },
+  "disclaimer": "Нумерология — эзотерическая традиция, научных доказательств нет."
+}
